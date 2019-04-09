@@ -5,7 +5,7 @@ Journey to learn one of the most loved language.
 - [x] Basic setup
 - [x] Hello world program
 - [x] Numbers, operators and comments
-- [ ] Variables and strings
+- [x] Variables and strings
 - [ ] Boolean and conditional logic
 - [ ] Rock, paper, scissors
 - [ ] Looping in python
